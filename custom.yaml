@@ -3,4 +3,4 @@ train: images
 val: images
 
 nc: 1
-class: [0: 'military_helicopter']
+names: [0: 'military_helicopter']
