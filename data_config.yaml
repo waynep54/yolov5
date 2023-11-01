@@ -1,0 +1,7 @@
+colors:
+- [255, 0, 31]
+- [255, 159, 0]
+names: [landed, missed]
+nc: 2
+train: C:/Users/Wayne Poon/Desktop/yolo_trial/train
+val: C:/Users/Wayne Poon/Desktop/yolo_trial/val
