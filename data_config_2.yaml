@@ -1,8 +1,0 @@
-colors:
-- [255, 0, 31]
-- [9, 255, 0]
-- [25, 194, 172]
-names: [Punch_missed, Punch_landed, trial]
-nc: 3
-train: C:/Users/Wayne Poon/Desktop/second_trial/train
-val: C:/Users/Wayne Poon/Desktop/second_trial/val
